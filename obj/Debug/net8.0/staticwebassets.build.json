@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aQMYILEdwq1d/JzZkCSUNXpsVw81zLsrT/BLw62tJ84=",
+  "Source": "PatientRiskAnalytics",
+  "BasePath": "_content/PatientRiskAnalytics",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

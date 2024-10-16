@@ -1,0 +1,14 @@
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\bin\Debug\net6.0\PatientRiskAnalytics.exe
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\bin\Debug\net6.0\PatientRiskAnalytics.deps.json
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\bin\Debug\net6.0\PatientRiskAnalytics.runtimeconfig.json
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\bin\Debug\net6.0\PatientRiskAnalytics.dll
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\bin\Debug\net6.0\PatientRiskAnalytics.pdb
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\obj\Debug\net6.0\PatientRiskAnalytics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\obj\Debug\net6.0\PatientRiskAnalytics.AssemblyInfoInputs.cache
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\obj\Debug\net6.0\PatientRiskAnalytics.AssemblyInfo.cs
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\obj\Debug\net6.0\PatientRiskAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\obj\Debug\net6.0\PatientRiskAnalytics.dll
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\obj\Debug\net6.0\refint\PatientRiskAnalytics.dll
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\obj\Debug\net6.0\PatientRiskAnalytics.pdb
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\obj\Debug\net6.0\PatientRiskAnalytics.genruntimeconfig.cache
+C:\Users\walee\Risk-Analysis\PatientRiskAnalytics\obj\Debug\net6.0\ref\PatientRiskAnalytics.dll
